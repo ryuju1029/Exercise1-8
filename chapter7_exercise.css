@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+  background-image: url(../caravan/img2/mv.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: bottom;
+}
+
+h3 {
+  color:black;
+}
+
+.main-visual-text {
+  padding: 20px;
+}
+
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgb(212, 209, 206);
+  color: black;
+}
+
